@@ -30,7 +30,7 @@ You can find me on [Twitter][1], or on [Instagram][2].
 </a>
 
 <a align="center" href="https://github.com/aliefdant/microsoft-landingpage-redesign">
-  <img height="130px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=microsoft-landingpage-redesign&theme=merko&show_owner=true"/>
+  <img height="130px" width="400px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=microsoft-landingpage-redesign&theme=merko&show_owner=true"/>
 </a>
 
 <a align="center" href="https://github.com/aliefdant/whatson-indonesia">
