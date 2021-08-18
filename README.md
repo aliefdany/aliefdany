@@ -9,11 +9,11 @@ My name is Alief Dany Seventri, I'm a Javascript Programmer that focused on Fron
 
 ### GitHub Stats📈
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img height="100px" align="center" src="https://github-readme-stats.vercel.app/api?username=aliefdany&count_private=true&show_icons=true&hide=stars,issues&theme=merko"/>
+<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=aliefdany&count_private=true&show_icons=true&hide=stars,issues&theme=merko"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="100px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliefdany&theme=merko&layout=compact"/>
+  <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliefdany&theme=merko&layout=compact"/>
 </a>
 
 
