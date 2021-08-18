@@ -5,10 +5,7 @@ Header](https://raw.githubusercontent.com/aliefdany/aliefdany/master/assets/read
 ### Hello, Folks!👋
 My name is Alief Dany Seventri, I'm a Javascript Programmer that focused on Frontend Development of a website. I love to learn and making stuff from the frontend technology like React, HTML, and CSS. Currently, I've taking my step ahead to work with MERN stack (MongoDB, Express, React, and Node) to build scalable, responsive, and performant web application! glad to see you here!
 
-You can find me on [![Twitter][1.2]][1], or on [![Instagram][2.2]][2].
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://image.flaticon.com/icons/png/512/1384/1384031.png?width=50px (instagram icon without padding)
+You can find me on [![Twitter][1], or on [![Instagram][2].
 
 [1]: https://twitter.com/aliefdany
 [2]: https://instagram.com/aliefdany
