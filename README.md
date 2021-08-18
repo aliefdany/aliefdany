@@ -21,6 +21,10 @@ You can find me on [Twitter][1], or on [Instagram][2].
   <img height="130px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliefdany&theme=merko&layout=compact"/>
 </a>
 
+<a href="https://github.com/aliefdant/adopt-me">
+  <img height="130px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=adopt-me"/>
+</a>
+
 <hr/>
 
 ### Tech and Tools🛠️
