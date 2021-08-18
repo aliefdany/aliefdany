@@ -16,6 +16,10 @@ My name is Alief Dany Seventri, I'm a Javascript Programmer that focused on Fron
   <img height="130px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliefdany&theme=merko&layout=compact"/>
 </a>
 
+<hr/>
+
+### Tech and Tools🛠️
+
 
 
 
