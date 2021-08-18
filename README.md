@@ -44,21 +44,21 @@ You can find me on [Twitter][1], or on [Instagram][2].
 
 ### Tech and Tools🛠️
 
-[![](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)](https://code.visualstudio.com/)(:target="_blank")
-![](https://img.shields.io/badge/OS-Ubuntu-blue?logo=ubuntu)
-![](https://img.shields.io/badge/Code-Javascript-blue?logo=javascript)
-![](https://img.shields.io/badge/Code-CSS-blue?logo=css3)
-![](https://img.shields.io/badge/Code-HTML-blue?logo=html5)
-![](https://img.shields.io/badge/Code-React-blue?logo=react)
-![](https://img.shields.io/badge/Code-Node-blue?logo=nodedotjs)
-![](https://img.shields.io/badge/DB-Mongo-blue?logo=mongodb)
-![](https://img.shields.io/badge/Server-Express-blue?logo=express)
-![](https://img.shields.io/badge/Shell-Bash-blue?logo=gnubash)
-![](https://img.shields.io/badge/Cloud-DigitalOcean-blue?logo=digitalocean)
-![](https://img.shields.io/badge/Tools-ESLint-blue?logo=eslint)
-![](https://img.shields.io/badge/Tools-Prettier-blue?logo=prettier)
-![](https://img.shields.io/badge/Tools-Babel-blue?logo=babel)
-![](https://img.shields.io/badge/Tools-NPM-blue?logo=npm)
+[![](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/OS-Ubuntu-blue?logo=ubuntu)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/Code-Javascript-blue?logo=javascript)](https://www.javascript.com/)
+[![](https://img.shields.io/badge/Code-CSS-blue?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![](https://img.shields.io/badge/Code-HTML-blue?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![](https://img.shields.io/badge/Code-React-blue?logo=react)](https://reactjs.org/)
+[![](https://img.shields.io/badge/Code-Node-blue?logo=nodedotjs)](https://nodejs.org/)
+[![](https://img.shields.io/badge/DB-Mongo-blue?logo=mongodb)](https://www.mongodb.com/)
+[![](https://img.shields.io/badge/Server-Express-blue?logo=express)](https://expressjs.com/)
+[![](https://img.shields.io/badge/Shell-Bash-blue?logo=gnubash)](https://www.gnu.org/software/bash/)
+[![](https://img.shields.io/badge/Cloud-DigitalOcean-blue?logo=digitalocean)](https://www.digitalocean.com/)
+[![](https://img.shields.io/badge/Tools-ESLint-blue?logo=eslint)](https://eslint.org/)
+[![](https://img.shields.io/badge/Tools-Prettier-blue?logo=prettier)](https://prettier.io/)
+[![](https://img.shields.io/badge/Tools-Babel-blue?logo=babel)](https://babeljs.io/)
+[![](https://img.shields.io/badge/Tools-NPM-blue?logo=npm)](https://www.npmjs.com/)
 
 
 
