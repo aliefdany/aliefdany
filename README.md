@@ -37,7 +37,7 @@ You can find me on [Twitter][1], or on [Instagram][2].
 </a>
 
 <a align="center" href="https://github.com/aliefdany/whatson-indonesia">
-  <img height="120px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=whatson-indonesia&theme=outrun"/>
+  <img height="120px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=whatson-indonesia&theme=yeblu"/>
 </a>
 
 <hr/>
