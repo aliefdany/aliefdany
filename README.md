@@ -22,7 +22,7 @@ You can find me on [Twitter][1], or on [Instagram][2].
 </a>
 
 <a href="https://github.com/aliefdant/adopt-me">
-  <img height="140px" width="400px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=adopt-me&theme=merko&show_owner=true"/>
+  <img height="140px" width="500px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=adopt-me&theme=merko&show_owner=true"/>
 </a>
 
 <a href="https://github.com/aliefdant/portfolio-website">
@@ -30,7 +30,7 @@ You can find me on [Twitter][1], or on [Instagram][2].
 </a>
 
 <a href="https://github.com/aliefdant/microsoft-landingpage-redesign">
-  <img height="140px" width="400px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=microsoft-landingpage-redesign&theme=merko&show_owner=true"/>
+  <img height="140px" width="500px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=microsoft-landingpage-redesign&theme=merko&show_owner=true"/>
 </a>
 
 <a href="https://github.com/aliefdant/whatson-indonesia">
