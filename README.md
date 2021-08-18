@@ -3,7 +3,7 @@
 Header](https://raw.githubusercontent.com/aliefdany/aliefdany/master/assets/readme_header.png)](https://aliefdany.me/)
 
 ### Hello, Folks!👋
-My name is Alief Dany Seventri, I'm a Javascript Programmer that focused on Frontend Development of a website. I love to learn and making stuff from the frontend technology like React, HTML, and CSS. Currently, I've taking my step ahead to work with MERN stack (MongoDB, Express, React, and Node) to build scalable, responsive, and performant web application! glad to see you here!
+My name is Alief Dany Seventri, I'm a Javascript Programmer that focused on Frontend Development of a website. I love to learn and making stuff with frontend technology like React, HTML, and CSS. Currently, I've taking my step ahead to work with MERN stack (MongoDB, Express, React, and Node) to build scalable, responsive, and performant web application! glad to see you here!
 
 You can find me on [Twitter][1], or on [Instagram][2].
 
