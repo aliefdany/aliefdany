@@ -23,8 +23,8 @@ My name is Alief Dany Seventri, I'm a Javascript Programmer that focused on Fron
 ![](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
 ![](https://img.shields.io/badge/OS-Ubuntu-blue?logo=ubuntu)
 ![](https://img.shields.io/badge/Code-Javascript-blue?logo=javascript)
-![](https://img.shields.io/badge/Code-CSS-blue?logo=css)
-![](https://img.shields.io/badge/Code-HTML-blue?logo=html)
+![](https://img.shields.io/badge/Code-CSS-blue?logo=css3)
+![](https://img.shields.io/badge/Code-HTML-blue?logo=html5)
 ![](https://img.shields.io/badge/Code-React-blue?logo=react)
 
 
