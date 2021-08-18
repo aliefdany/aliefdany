@@ -18,11 +18,11 @@ You can find me on [Twitter][1], or on [Instagram][2].
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="130px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliefdany&layout=compact&theme=merko"/>
+  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliefdany&layout=compact&theme=merko"/>
 </a>
 
 <a align="center" href="https://github.com/aliefdant/adopt-me">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=adopt-me&theme=merko&show_owner=true"/>
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=adopt-me&theme=merko&show_owner=true"/>
 </a>
 
 <a align="center" href="https://github.com/aliefdant/portfolio-website">
