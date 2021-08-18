@@ -7,8 +7,11 @@ My name is Alief Dany Seventri, I'm a Javascript Programmer that focused on Fron
 
 You can find me on [Twitter][1], or on [Instagram][2].
 
+Take a look for my portfolio pages [Here][3] !
+
 [1]: https://twitter.com/aliefdany
 [2]: https://instagram.com/aliefdany
+[3]: https://aliefdany.me
 
 <hr/>
 
