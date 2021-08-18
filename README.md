@@ -44,7 +44,7 @@ You can find me on [Twitter][1], or on [Instagram][2].
 
 ### Tech and Tools🛠️
 
-[![](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)](https://code.visualstudio.com/){:target="_blank"}
 ![](https://img.shields.io/badge/OS-Ubuntu-blue?logo=ubuntu)
 ![](https://img.shields.io/badge/Code-Javascript-blue?logo=javascript)
 ![](https://img.shields.io/badge/Code-CSS-blue?logo=css3)
