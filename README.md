@@ -16,7 +16,6 @@ My name is Alief Dany Seventri, I'm a Javascript Programmer that focused on Fron
   <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliefdany&theme=merko&layout=compact"/>
 </a>
 
-[![aliefdany's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aliefdany)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
