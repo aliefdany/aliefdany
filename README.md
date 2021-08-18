@@ -18,7 +18,7 @@ You can find me on [Twitter][1], or on [Instagram][2].
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="130px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliefdany&layout=compact"/>
+  <img height="130px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliefdany&layout=compact&theme=merko"/>
 </a>
 
 <a href="https://github.com/aliefdant/adopt-me">
