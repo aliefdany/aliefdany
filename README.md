@@ -5,6 +5,10 @@ Header](https://raw.githubusercontent.com/aliefdany/aliefdany/master/assets/read
 ### Hello, Folks!👋
 My name is Alief Dany Seventri, I'm a Javascript Programmer that focused on Frontend Development of a website. I love to learn and making stuff from the frontend technology like React, HTML, and CSS. Currently, I've taking my step ahead to work with MERN stack (MongoDB, Express, React, and Node) to build scalable, responsive, and performant web application! glad to see you here!
 
+
+### GitHub Stats📈
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliefdany)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **aliefdany/aliefdany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
