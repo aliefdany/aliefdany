@@ -22,19 +22,19 @@ You can find me on [Twitter][1], or on [Instagram][2].
 </a>
 
 <a align="center" href="https://github.com/aliefdant/adopt-me">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=adopt-me&theme=merko&show_owner=true"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=adopt-me&theme=merko&show_owner=true"/>
 </a>
 
 <a align="center" href="https://github.com/aliefdant/portfolio-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=portfolio-website&theme=merko&show_owner=true"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=portfolio-website&theme=merko&show_owner=true"/>
 </a>
 
 <a align="center" href="https://github.com/aliefdant/microsoft-landingpage-redesign">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=microsoft-landingpage-redesign&theme=merko&show_owner=true"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=microsoft-landingpage-redesign&theme=merko&show_owner=true"/>
 </a>
 
 <a align="center" href="https://github.com/aliefdant/whatson-indonesia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=whatson-indonesia&theme=merko&show_owner=true"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=whatson-indonesia&theme=merko&show_owner=true"/>
 </a>
 
 <hr/>
