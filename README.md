@@ -21,26 +21,26 @@ Take a look for my portfolio pages [Here][3] !
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliefdany&layout=compact&theme=merko"/>
+  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliefdany&layout=compact&theme=merko&hide_border=true"/>
 </a>
 
 <hr/>
 
 ### Pinned Repos📌
 <a align="center" href="https://github.com/aliefdany/adopt-me">
-  <img height="120px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=adopt-me&theme=ayu-mirage"/>
+  <img height="120px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=adopt-me&theme=ayu-mirage&hide_border=true"/>
 </a>
 
 <a href="https://github.com/aliefdany/portfolio-website">
-  <img height="120px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=portfolio-website&theme=blue-green"/>
+  <img height="120px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=portfolio-website&theme=blue-green&hide_border=true"/>
 </a>
 
 <a align="center" href="https://github.com/aliefdany/microsoft-landingpage-redesign">
-  <img height="120px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=microsoft-landingpage-redesign&theme=slateorange"/>
+  <img height="120px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=microsoft-landingpage-redesign&theme=slateorange&hide_border=true"/>
 </a>
 
 <a align="center" href="https://github.com/aliefdany/whatson-indonesia">
-  <img height="120px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=whatson-indonesia&theme=yeblu"/>
+  <img height="120px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=whatson-indonesia&theme=yeblu&hide_border=true"/>
 </a>
 
 <hr/>
