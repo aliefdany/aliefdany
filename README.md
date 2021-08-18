@@ -8,9 +8,9 @@ My name is Alief Dany Seventri, I'm a Javascript Programmer that focused on Fron
 <hr/>
 
 ### GitHub Stats📈
-<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=aliefdany&count_private=true&show_icons=true&hide=stars,issues&theme=merko"/>
+<img align="center" height="100px" src="https://github-readme-stats.vercel.app/api?username=aliefdany&count_private=true&show_icons=true&hide=stars,issues&theme=merko"/>
 
-<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliefdany&theme=merko&layout=compact"/>
+<img align="center" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliefdany&theme=merko&layout=compact"/>
 
 <!--
 **aliefdany/aliefdany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
