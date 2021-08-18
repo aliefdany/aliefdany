@@ -14,12 +14,14 @@ You can find me on [Twitter][1], or on [Instagram][2].
 
 ### GitHub Stats📈
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=aliefdany&count_private=true&show_icons=true&hide=stars,issues,contribs&theme=merko"/>
+<img height="140px" align="center" src="https://github-readme-stats.vercel.app/api?username=aliefdany&count_private=true&show_icons=true&hide=stars,issues,contribs&theme=merko"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliefdany&layout=compact&theme=merko"/>
+  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliefdany&layout=compact&theme=merko"/>
 </a>
+
+<br/>
 
 <a align="center" href="https://github.com/aliefdant/adopt-me">
   <img height="130px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliefdany&repo=adopt-me&theme=merko&"/>
